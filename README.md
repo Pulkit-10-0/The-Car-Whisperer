@@ -8,7 +8,7 @@ Conversational History Tracking – Maintains a history of user interactions to 
 
 Dynamic Response Formatting – Presents recommendations in a structured format with clear details for easy comparison.
 
-Error Handling & Stability – Implements exception handling to manage API errors and ensure a smooth user experience.
+Error Handling & Stability – Implements exception handling to manage API errors and ensure a smooth user experience. 
 
 
 
